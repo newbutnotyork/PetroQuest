@@ -12,7 +12,7 @@ from PyQt5.QtWidgets import QWidget, QVBoxLayout, QHBoxLayout, QPushButton
 from PyQt5.QtCore import Qt, QTimer
 from PyQt5.QtGui import QImage, QPainter, QFont
 from utils import resource_path
-
+# Ширина и высота окна
 WIDTH, HEIGHT = 1400, 1000
 # Цвета
 BLUE = (0, 120, 255)
