@@ -29,6 +29,23 @@
 8. **Транспорт** — трубопроводный, железнодорожный, водный и авто транспорт.
 9. **АЗС** — финальный этап: заправка автомобиля топливом.
 
+## 📸 Скриншоты программы
+<details>
+  <summary><b>Нажмите, чтобы посмотреть скриншоты</b></summary>
+  <br>
+  <img width="1919" height="1079" alt="Анимация" src="https://github.com/user-attachments/assets/6259e5f0-b48d-4ec7-898d-e67a0ee2cf6d" />
+   <img width="1919" height="1079" alt="Анимация1" src="https://github.com/user-attachments/assets/45745cf7-2743-4cd7-be4b-a83bcbdf9638" />
+   <img width="1919" height="1079" alt="Анимация5" src="https://github.com/user-attachments/assets/5f9cfcbc-d0e0-4768-9776-0fa3232ea769" />
+   <img width="1919" height="1079" alt="Анимация6" src="https://github.com/user-attachments/assets/36e3b9a3-e632-41de-a738-c06041743c12" />
+   <img width="1919" height="1079" alt="Анимация7" src="https://github.com/user-attachments/assets/b2afc3ab-6b07-4685-9ae6-beadb1472fa0" />
+   <img width="1919" height="1079" alt="Анимация8" src="https://github.com/user-attachments/assets/ca66f645-58eb-4136-885c-850fcfd46967" />
+   <img width="1919" height="1079" alt="Анимация9" src="https://github.com/user-attachments/assets/8242a288-c95a-4d65-a206-20404bb9073f" />
+   <img width="1919" height="1079" alt="Анимация10" src="https://github.com/user-attachments/assets/1b790fc8-2654-4f92-ae10-149bfc09163c" />
+   <img width="1919" height="1079" alt="Анимация11" src="https://github.com/user-attachments/assets/902b288e-39de-46bc-9d04-d83713e85729" />
+   <img width="1919" height="1079" alt="Анимация13" src="https://github.com/user-attachments/assets/d019bd47-ff3d-4d57-8586-902d4e5bfaaa" />
+</details>
+
+
 ## 🛠 Технологический стек
 
 - **Python**
@@ -41,7 +58,7 @@
 
 1. Клонируйте репозиторий:
    ```bash
-   git clone https://github.com/famousrose/PetroQuest.git
+   git clone https://github.com/newbutnotyork/PetroQuest.git
    ```
 2. Перейдите в директорию проекта:
    ```bash
